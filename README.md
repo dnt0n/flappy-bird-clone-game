@@ -10,3 +10,4 @@ On top of YouTuber Clear Code's implementation, I added the below functionalitie
 2. Added 2 more types of obstacles - double pillars and stones to increase the difficulty and playability of the game.
 3. Added a feature which increases game difficulty as score increases. There are three difficulty tiers - easy, medium and hard which correspond to different game speeds.
 4. Added plane crash sound.
+5. Added many useful comments when I coded along the video.
