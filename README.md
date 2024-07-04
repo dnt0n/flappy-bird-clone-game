@@ -3,11 +3,11 @@ A Flappy Bird Clone Game. A modified code-along project from YouTuber Clear Code
 
 In the code file there are 3 files: main, settings, and sprites.
 
-To run the game, run the main file.
+To run the game, run the main file. Mouse click to jump. Game settings can be changed under the settings file.
 
 On top of YouTuber Clear Code's implementation, I added the below functionalities:
 1. Added the ability to adjust more game settings such as obstacle size, gravity, jump height, obstacle speed and intervals under the settings file.
 2. Added 2 more types of obstacles - double pillars and stones to increase the difficulty and playability of the game.
 3. Added a feature which increases game difficulty as score increases. There are three difficulty tiers - easy, medium and hard which correspond to different game speeds.
 4. Added plane crash sound.
-5. Added many useful comments when I coded along the video.
+5. Added many useful comments when I coded alongside the video.
