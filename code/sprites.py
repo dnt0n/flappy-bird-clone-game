@@ -2,7 +2,7 @@ import pygame
 from settings import *
 from random import choice, randint
 
-main_file_dir = "C:/Users/danto/OneDrive/Desktop/Coding Projects/Flappy Bird Clone Pygame"
+main_file_dir = ".."
 
 # Background class
 class BG(pygame.sprite.Sprite):
