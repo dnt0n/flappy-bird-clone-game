@@ -2,7 +2,7 @@ import pygame, sys, time
 from settings import *
 from sprites import BG, Ground, Plane, Obstacle
 
-main_file_dir = "C:/Users/danto/OneDrive/Desktop/Coding Projects/Flappy Bird Clone Pygame"
+main_file_dir = ".."
 
 class Game:
     def __init__(self):
